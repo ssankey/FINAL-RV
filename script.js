@@ -19,5 +19,5 @@ for(i=0;i<=logo.length;i++){
 
 var loader = document.getElementById("preloader");
 window.addEventListener("load",function(){
-    loader.style.display = "none"
+    loader.style.display = "none";
 })
